@@ -1,0 +1,6 @@
+train: C:/Users/SBA/Desktop/Test_Simpson_Dataset/dataset/test/images
+val: C:/Users/SBA/Desktop/Test_Simpson_Dataset/dataset/valid/images
+test: C:/Users/SBA/Desktop/Test_Simpson_Dataset/dataset/test/images
+
+nc: 5
+names: ['bart_simpson', 'homer_simpson', 'lisa_simpson', 'maggie_simpson', 'marge_simpson']
